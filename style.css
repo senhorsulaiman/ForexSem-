@@ -252,7 +252,7 @@ ul.level1> li:first-child{
 	height: 600px;
 	text-align:center;
 	position:relative;
-	background-image: url('images/bg2.jpg');
+	background-image: url('https://images.unsplash.com/photo-1451481454041-104482d8e284?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;w=1080&amp;fit=max&amp;s=4fb6668053c6bcc6c2d3cfc0a85eba2a');
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	     -o-background-size: cover;
