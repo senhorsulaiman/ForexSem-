@@ -37,6 +37,7 @@ body{
 	font-size: 18px;
 	font-weight:200px;
 }
+
 header{
 	
 	padding: 20px 10px;
@@ -257,13 +258,15 @@ ul.level1> li:first-child{
 	-webkit-background-size: cover;
 	     -o-background-size: cover;
 	        background-size: cover;
+	
+	background-position: center;
 
 }
 
 .select{
 	width:20%;
 	padding:10px 0px;
-	margin-right:20px;
+	margin-right:5%;
 	position:relative;
 	font-weight: light;
 	font-size: 18px;
@@ -304,7 +307,7 @@ ul.level1> li:first-child{
 	text-align: left;
 	max-width:960px;
 	margin: 0 auto;
-	
+	padding:0px 10px;
 	
 	
 
@@ -524,8 +527,10 @@ z-index:500;
 }
 
 .content{
+
+	padding:20px;
 	
-	padding: 20px 0px;
+
 }
 
 
@@ -722,9 +727,9 @@ footer{
 		
 		text-align: center;
 		
-		font-size:0.6em;
+		font-size:0.9em;
 		
-		width:22%;
+		width:25%;
 		
 	}
 
@@ -783,6 +788,12 @@ footer{
 		text-align: center;
 	}
 
+	.main p{
+		
+		font-size:1.2em;
+	}
+
+	
 
 	
 
